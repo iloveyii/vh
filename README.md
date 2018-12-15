@@ -1,6 +1,6 @@
 Vh Script
 =======
-This a small and simple script to automate the manual work of creating virtual host in apache2. It has been developed and tested on Ubuntu.
+[This](http://softhem.se/tools/vh) a small and simple script to automate the manual work of creating virtual host in apache2. It has been developed and tested on Ubuntu.
 
 ## Setup 
 
