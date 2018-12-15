@@ -19,7 +19,7 @@ Where 'mywebsite' is the name of your virtual host and '-p' specifies the path t
 
 Now you should be able to browse to [http://mywebsite.loc](http://mywebsite.loc).
 
-To see help run the script `vh` on a terminal.
+To see help run the script without any arguments `vh` on a terminal.
    
 <i>DevOps has never been so cool.</i>  
 [Hazrat Ali](http://blog.softhem.se/) 
