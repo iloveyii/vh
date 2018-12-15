@@ -7,11 +7,11 @@ This a small and simple script to automate the manual work of creating virtual h
   * Clone the repository `https://github.com/iloveyii/vh.git`.
   * Move the script to user/local/bin  `mv vh /usr/local/bin`.
   * Make the script executable `sudo chmod 755 /usr/local/bin/vh`.
-  * Verify if the script can be run `which vh`. and it show `/usr/local/bin/vh`.
+  * Verify if the script can be run `which vh`. and it should show `/usr/local/bin/vh`.
 
 ## How to use the script
 
-To use the script open a terminal and the run it as :
+Let say we want to create a virtual host: http://mywebsite.loc. To use the script open a terminal and run it like :
 ```
 sudo vh new mywebsite -p project-directory-path/index.php
 ```
